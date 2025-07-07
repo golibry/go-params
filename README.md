@@ -3,7 +3,7 @@
 A lightweight Go library for parsing and converting parameters from various sources (environment 
 variables, URL query parameters, and raw strings) with built-in type conversion and default 
 values.  
-Migrate from https://github.com/rsgcata/go-params
+Migrated from https://github.com/rsgcata/go-params
 
 ## Installation
 
